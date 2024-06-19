@@ -1,0 +1,29 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.list{
+    margin: 50px;
+}
+
+div{
+    width: 50px;
+    height: 7px;
+    background-color: black;
+}
+
+.menu{
+   
+    visibility: hidden;
+    background-color: blue;
+    padding: 10px 50px;
+    color: white;
+}
+
+.list:hover .menu{
+    width: 80px;
+    height: 70px;
+    visibility: visible;
+    transition: 0.5s;
+}

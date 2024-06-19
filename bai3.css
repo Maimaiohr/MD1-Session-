@@ -1,0 +1,25 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.div1{
+    margin: 50px;
+    padding: 10px 10px;
+    background-color: #c5d7e8;
+    width: 350px;
+    height: 170px;
+}
+
+.div2{
+    background-color: #8CFBFD;
+    width: 150px;
+    height: 150px;
+    margin: 10px 10px;
+}
+
+.div2:hover{
+    background-color: #E36D52;
+    border-radius: 50%;
+    transition: 0.5s;
+}

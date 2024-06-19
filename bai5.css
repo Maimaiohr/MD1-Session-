@@ -1,0 +1,30 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+
+.menu{
+    background-color: azure;
+    width: 300px;
+    
+}
+
+.menu ul li{
+    padding: 10px;
+    list-style: none;
+    background-color:rgb(183, 236, 236);
+}
+.menu ul li a{
+    text-decoration: none;
+}
+
+.menu ul li:last-child{
+    border: none;
+}
+
+.menu ul li:hover {
+    background-color: rgb(202, 224, 246);
+    margin-left: 30px;
+    width: 300px;
+}

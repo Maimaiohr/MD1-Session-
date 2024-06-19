@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.div1{
+    background-color: antiquewhite;
+    width: 250px;
+    padding: 20px ;
+    margin: 10px;  
+}
+.div2{
+    padding-bottom: 15px;
+}
+.formm input:hover{
+background-color: yellow;
+}
+.form{
+    padding: 10px;
+}
+.hoten{
+    padding-bottom: 10px;
+}
+.tuoi{
+    padding-bottom: 10px;
+}

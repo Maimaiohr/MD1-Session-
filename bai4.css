@@ -1,0 +1,21 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.div1{
+ margin: 50px;   
+ width: 250px;
+ box-shadow: 8px 6px 8px 5px rgb(210, 204, 204);
+}
+.anh img{
+    width: 100%;
+    
+}
+.text p{
+    width: 100%;
+    padding: 10px;
+}
+.p1{
+    font-weight: bold;
+    font-size: larger;
+}

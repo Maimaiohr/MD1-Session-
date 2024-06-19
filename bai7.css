@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.banner{
+    background-color: #e2dede;
+    padding: 10px 10px;
+    margin: 10px;
+    height: 40px;
+    font-weight: bold;
+    font-size: 25px;    
+    color: rgb(86, 223, 86);        
+}
